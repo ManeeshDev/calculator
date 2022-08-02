@@ -1,0 +1,34 @@
+C:\Users\Student\AppData\Local\Temporary Projects\Calculator\bin\Debug\Calculator.exe.config
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.frmCal.resources
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\Manish\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.frmCal.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\MP_ Works\VB @VTA_DIP_2019\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\bin\Debug\Calculator.xml
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.vbproj.AssemblyReference.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.vbproj.SuggestedBindingRedirects.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.frmCal.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.Resources.resources
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.vbproj.CoreCompileInputs.cache
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.xml
+D:\MP_ Works\My Dev Projects\Vb .net\Calculator\Calculator\obj\Debug\Calculator.pdb
